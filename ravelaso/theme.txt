@@ -1,5 +1,6 @@
 # GRUB2 gfxmenu Linux theme
 # Designed for any resolution
+# Edits by Ravelaso
 
 # Global Property
 title-text: ""
